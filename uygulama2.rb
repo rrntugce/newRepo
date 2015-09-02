@@ -9,5 +9,4 @@ if string== string.reverse
   puts "is a palindrome"
 else
   puts  "is not a palindrome"
-
 end
